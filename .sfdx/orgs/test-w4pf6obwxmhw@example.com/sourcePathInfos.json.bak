@@ -1,0 +1,122 @@
+[
+    [
+        "C:\\Users\\swguru\\Documents\\Dev\\myeslwc\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\swguru\\Documents\\Dev\\myeslwc\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559212409792,
+            "changeTime": 1559212409792,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\swguru\\Documents\\Dev\\myeslwc\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\swguru\\Documents\\Dev\\myeslwc\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559212409793,
+            "changeTime": 1559212409793,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\swguru\\Documents\\Dev\\myeslwc\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\swguru\\Documents\\Dev\\myeslwc\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559212993994,
+            "changeTime": 1559212993994,
+            "contentHash": "05024b18c29d62b8beaf03bddcec18e750d0fc50",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\swguru\\Documents\\Dev\\myeslwc\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\swguru\\Documents\\Dev\\myeslwc\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559212409794,
+            "changeTime": 1559212409794,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\swguru\\Documents\\Dev\\myeslwc\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\swguru\\Documents\\Dev\\myeslwc\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559212409795,
+            "changeTime": 1559212409795,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\swguru\\Documents\\Dev\\myeslwc\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\swguru\\Documents\\Dev\\myeslwc\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559213394994,
+            "changeTime": 1559213394994,
+            "contentHash": "48101f54be047d2941f357e713fca6ba980b6a20",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\swguru\\Documents\\Dev\\myeslwc\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\swguru\\Documents\\Dev\\myeslwc\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8364,
+            "modifiedTime": 1559210436421,
+            "changeTime": 1559210436421,
+            "contentHash": "a4cdf2f8c9963952fdd4a38a2629d240c2cdc748",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\swguru\\Documents\\Dev\\myeslwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\swguru\\Documents\\Dev\\myeslwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559212440073,
+            "changeTime": 1559212440073,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
